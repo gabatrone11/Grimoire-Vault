@@ -1,0 +1,10 @@
+{
+  "find-unlinked-files:find-unlinked-files": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ]
+}
