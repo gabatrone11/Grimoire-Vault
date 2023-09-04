@@ -36,6 +36,22 @@ Image from *Flores Astrologiae* (1488).
 
 Woodcut in printed book.
 
+<hr>
+## Table of Contents
+
+- [Structure](#Structure)
+- [Signs](#Signs)
+- [Houses](#Houses)
+- [The Trinity](#The-Trinity)
+- [Planets](#Planets)
+- [Sensitive Pts.](#Sensitive-Pts.)
+- [Asteroids](#Asteroids)
+- [Miscellany](#Miscellany)
+
+
+
+<hr>
+
 # Structure
 
 <img src="F:\Obsidian Vaults\Grimoire Vault\Grimoire\media\image7.jpg"
@@ -169,7 +185,7 @@ dignities.
 
 The twelve signs of the Western zodiac are subdivided into four
 triplicities, by their governing elements—the Fire Triplicity, the Earth
-Triplicity, the Air Triplicity, and the Earth Triplicity. Each sign in
+Triplicity, the Air Triplicity, and the Water Triplicity. Each sign in
 each Triplicity is 120° apart from the other. The Triplicities are as
 follows:
 
@@ -355,359 +371,121 @@ fulfillment. Soulful, intuitive, empathic.</td>
 
 ### Fire
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 26%" />
-<col style="width: 24%" />
-<col style="width: 24%" />
-<col style="width: 24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th rowspan="5">Keywords</th>
-<th colspan="3"></th>
-</tr>
-<tr class="odd">
-<th colspan="3"></th>
-</tr>
-<tr class="header">
-<th colspan="3"></th>
-</tr>
-<tr class="odd">
-<th colspan="3"></th>
-</tr>
-<tr class="header">
-<th colspan="3"></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Binary</td>
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td>Season</td>
-<td colspan="3"></td>
-</tr>
-<tr class="odd">
-<td>Cardinal Direction</td>
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td>Signs</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Houses</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td rowspan="2">Gemstones</td>
-<td colspan="3"></td>
-</tr>
-<tr class="odd">
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td rowspan="2">Herbs/Essences</td>
-<td colspan="3"></td>
-</tr>
-<tr class="odd">
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td rowspan="2">Animal Totems</td>
-<td colspan="3"></td>
-</tr>
-<tr class="odd">
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td>Colors</td>
-<td colspan="3"></td>
-</tr>
-<tr class="odd">
-<td><p>Archangel</p>
-<p>(Western)</p></td>
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td>Directional Guardian (Eastern)</td>
-<td colspan="3"></td>
-</tr>
-</tbody>
-</table>
+| *Keywords*                          |     |     |     |
+|-----------------------------------|-----|-----|-----|
+|                                   | **Aristotelian Philosophy**    | **Tarot**   | **Hellenistic Astrology**     |
+|                                   | Warmth     | Passion    | Enthusiasm    |
+|                                   | Dryness    | Inspiration    | Courage    |
+|                                   | Upward motion   | Willpower    | Drive    |
+|                                   | Transformation   | Creativity    | Leadership     |
+|                                   | Activity   | Energy      | Spontaneity   | 
+|                                   | Vitality   | Determination    | Adventure     |
+|                                   |    | Growth    | Initiative     |
+|                                   |    | Spirituality    | Assertiveness    |
+|                                   |    | Ambition    | Impulsiveness    |
+|                                   |     |     |     |
+| *Binary*                            | Water    |     |     |
+| *Season*                            | Summer     |    |  |
+| *Cardinal Direction*                | South    |     |     |
+| *Signs*                             | **Aries**: Spring (March 21 - April 19)     | **Leo**: Summer (July 23 - August 22)     | **Sagittarius**: Fall/Autumn (November 22 - December 21)     |
+| *Houses*                            | **Aries**: 1st House (House of Self) - This house is about self-identity, physical appearance, and personal ambitions. Aries, as the first sign of the zodiac, is about initiation and taking action.     | **Leo**: 5th House (House of Pleasure) - This house relates to creativity, romance, pleasure, and children. Leo, ruled by the Sun, is about self-expression, creativity, and being at the center of attention.    | **Sagittarius**: 9th House (House of Philosophy) - This house is about higher learning, philosophy, long-distance travel, and spiritual beliefs. Sagittarius, ruled by Jupiter, seeks knowledge, truth, and adventure.    |
+| *Gemstones*                         | **Ruby**: Known for its deep red color, ruby is a stone of passion, protection, and prosperity.    | **Red Garnet**: Linked to love, passion, and devotion.    | **Red Jasper**: Often used for its grounding and stabilizing energies, it's also known to ignite passion and creativity.     |
+|                                   | **Citrine**: A yellow to golden-brown stone known to promote positivity, abundance, and manifestation.    | **Fire Agate**: A multicolored stone with a fiery appearance that promotes courage, strength, and creativity.     | **Fire Opal**: A translucent stone known to promote emotional balance, enhance creativity, and boost confidence.     |
+|                                   | **Sunstone**: A fiery crystal that promotes passion, creativity, and clarity.    | **Sardonyx**: A type of Chalcedony known for attracting good fortune.    | **Amber**: A golden to brownish-orange fossilized resin that is millions of years old. Its fiery energies are connected with the Fire sign, promoting personal growth and empowerment.     |
+|                                   | **Anatase**: This crystal can be black, blue, green, red, yellow, brown, or gray. It promotes psychic abilities, intuition, and courage.     | **Carnelian**: A reddish-orange to brownish-red stone that benefits those seeking to manifest their desires and achieve their goals.     | **Chalcopyrite**: A shiny mineral that boosts self-esteem, creativity, and manifestation.    |
+|                                   | **Ethiopian Opal**: Linked with the Fire element, representing passion, transformation, and vitality.    | **Feldspar**: A mineral that possesses healing properties to reduce stress, promote emotional balance, and enhance creativity.    | **Halite**: A type of salt rock used for cooking and salt lamps, known for its purifying properties.    |
+|                                   | **Hematite**: A metallic gray-to-black stone known for enhancing focus and concentration.    | **Pyrite**: Often called “Fool’s Gold,” it attracts abundance and success.     | **Topaz**: A gemstone that stimulates passion, creativity, and vitality.     |
+|                                   | **Vanadinite**: Boosts courage and confidence.    | **Yooperlite**: A crystal that glows under UV light, promoting passion and vitality.    | **Zoisite**: Enhances passion, creativity, and vitality.    |
+|                                   |     |     |     |
+| *Herbs/Essences*                    | **Allspice**: Gender: Male, Planet: Mars, Uses: Can be used as an incense/perfume or as a talisman/charm. Useful in spells that call money or luck to you, and for healing spells. This herb can also fire up your spells with more determination and energy. Burn crushed allspice to attract money. Use in herbal baths for healing.    | **Amaranth**: Gender: Female, Planet: Saturn, Uses: Used in healing spells, invisibility, healing broken hearts, summoning spirits, and protection from bullets. Known as the Flower of Immortality. Often used to decorate images of deities. Wearing a crown of amaranth is said to speed healing or render you invisible. | **Anemone**: Uses: The flowers are used in healing charms. Carry them to protect against illnesses. The flowers can also be used to color Ostara eggs   |
+|                                   | **Angelica**: Planet: Sun, Uses: A powerful protection herb. It creates a barrier from negative energy and spirits and is used in healing or exorcism incense. Scattered around, it will purify and protect an area. Sprinkle in your shoes to give you energy and strength. Burn to call back a lost lover. Also useful for meditation, divination, and exorcism.   | **Asafoetida**: Uses: Though it smells bad when burned, this herb is powerful and used for protection and banishing negativity. The smell can induce vomiting. Used with garlic, this herb will dispel disease and evil. It also keeps fevers and colds at bay.  | **Ash**: Uses: Good for invincibility spells, protection from drowning, general protection, and luck. Carve a solar cross out of ash for protection from drowning. Burn an ash log at Yule to bring prosperity.     |
+|                                   | **Avens**: Planet: Jupiter, Uses: Guards against wild animals. Used in exorcisms. Is purifying. Draws love to you.   | **Basil**: Uses: Brings love, wealth, sympathy, and protection. Wards against confusion, fears, and weakness. This herb is associated with Candlemas. Basil is associated with initiations. It can also be used to invoke salamanders or communicate with dragons.   | **Bay**: Uses: Can be used as a talisman/charm or medicinally. Used to purify and bless businesses and homes. Attracts romance and clears confusion.    |
+|                                   | **Betony**: Uses: Can be used medicinally or as a talisman/charm. The Druids used this herb to expel evil spirits and ward off nightmares and despair.    | **Rosemary, Copal, Palm, Sunflower**: These are sun-loving, tropical, and desert plants that thrive in summertime or full sunlight. If a plant can stand scorching sunlight and drought, it's often associated with the fire element.     | **Cinnamon, Chili, Pepper, Cloves, Ginger, Wormwood, Asafoetida**: These fiery herbs have assertive odors, ranging from pleasantly piquant to downright noxious. They are often used in spells for banishing, protection, and exorcism. Spicy plants and herbs are also used to "heat up" or hasten the results of a spell.     |
+|                                   | **Marigold, Amaranth, Snapdragon, Dragon's Blood, Calendula, Sagebrush**: Plants that are red, gold, or orange, or that bear a physical resemblance to flame, are often considered fiery. So are plants associated with the lord of Fire, the Dragon.   | **Stinging Nettle, Holly, Cedar, Mace**: Plants that poke, burn, or sting are associated with the "get back" energy of fire. Plants with spines and needles are considered fiery, as are plants with acids or essential oils that irritate the skin.   | **Angelica, Blessed Thistle, Basil, Cinquefoil, Wood Betony**: Some herbs without explicitly fiery qualities are still attributed to fire. These are herbs that are said in folklore to be especially favored by God and possess the fire of the Spirit. Fiery herbs of this type are popular in amulets and protective charms. They are used to cleanse negative influences, convey blessings, and create a barrier against evil.    |
+|                                   |     |    |    |
+| *Animal Totems*                     | **Fox**: Foxes are often seen as clever creatures in many cultures. The orange-red color of the fox’s fur and its eyes, which some people say resemble embers, are symbolic of fire.     | **Lions**: Lions are social creatures that live in groups known as prides. The golden color of the lion cub’s fur represents the glow of the fire. Lions are seen as brave and powerful beasts, much like the way fire is perceived in some cultures.     | **Tiger**: Tigers are one of the largest members of the cat family. The markings on their coats are similar to the pattern of flames and embers. Their black stripes can be seen as lines of smoke rising above a burning field, while orange or brown fur is similar to the color of embers.    |
+|                                   | **Hawk**: Hawks are predatory birds with excellent eyesight. Their speed makes them excellent examples of fire. The red-tailed hawk, for example, has wings that appear like flames when it flies through the sky.    | **Fire Ants**: Fire ants are typically red in color and produce venom. Their aggressiveness and their ability to attack in packs make them symbolic of fire.    | **Fireflies**: Fireflies are beetles that have bioluminescent organs which make them glow. Their light allows them to easily find prey, making them symbolic of fire.    |
+|                                   | **King Cobra**: The king cobra is one of the most poisonous snakes in the world. Their aggression and their ability to inflict pain make them symbolic of fire.    | **Lizard**: Some lizards are able to detach their tail in order to escape danger. Their regenerative abilities make them symbolic of fire.    | **Phoenix**: The phoenix is a mythical animal that represents fire because it can regenerate and grow new feathers. They are also associated with warmth.    |
+|                                   | **Dragon**: Dragons are mythical creatures often described as giant lizard or snake-like creatures with wings. Some dragons are able to breathe fire, making them symbolic of the element of fire.    |     |     |
+|                                   |     |     |     |
+| *Colors*                            |  Red   | Orange    |     |
+| *Archangel (Western)*               | **Archangel Michael**   |     |     |
+|                                   | **Awakening to Truth**: Fire enlightens the areas in which it burns, providing clarity and revealing what was previously hidden in darkness. Similarly, Archangel Michael enlightens people's souls by awakening them to spiritual truth, offering clarity about God, themselves, and others.    | **Burning Away Sins**: Just as fire can burn and purify, Michael helps individuals overcome sins. He brings to attention the dangerous aspects of sin and urges purification through holiness.    | **Protection from Evil**: Fire, with its destructive power, reminds people of Michael's role as heaven's top warrior angel, combating evil with the greater power of good. Michael assists those who seek his help to overcome any evil influences in their lives.    |
+|                                   | **Sparking Enthusiasm and Courage**: The term "on fire" denotes passion and energy. In the same way, Michael sparks enthusiasm for God and provides the courage to follow divine guidance. He instills passion in individuals, enabling them to live their best lives and stand firm in their convictions.    |     |     |
+| *Directional Guardian (Eastern)*    | **Vermilion Bird (朱雀)** of the South    |     |     |
+
 
 ### Earth
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 26%" />
-<col style="width: 24%" />
-<col style="width: 24%" />
-<col style="width: 24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th rowspan="5">Keywords</th>
-<th colspan="3"></th>
-</tr>
-<tr class="odd">
-<th colspan="3"></th>
-</tr>
-<tr class="header">
-<th colspan="3"></th>
-</tr>
-<tr class="odd">
-<th colspan="3"></th>
-</tr>
-<tr class="header">
-<th colspan="3"></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Binary</td>
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td>Season</td>
-<td colspan="3"></td>
-</tr>
-<tr class="odd">
-<td>Cardinal Direction</td>
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td>Signs</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Houses</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td rowspan="2">Gemstones</td>
-<td colspan="3"></td>
-</tr>
-<tr class="odd">
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td rowspan="2">Herbs/Essences</td>
-<td colspan="3"></td>
-</tr>
-<tr class="odd">
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td rowspan="2">Animal Totems</td>
-<td colspan="3"></td>
-</tr>
-<tr class="odd">
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td>Colors</td>
-<td colspan="3"></td>
-</tr>
-<tr class="odd">
-<td><p>Archangel</p>
-<p>(Western)</p></td>
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td>Directional Guardian (Eastern)</td>
-<td colspan="3"></td>
-</tr>
-</tbody>
-</table>
+| Keywords                          |     |     |     |
+|-----------------------------------|-----|-----|-----|
+|                                   |     |     |     |
+|                                   |     |     |     |
+|                                   |     |     |     |
+|                                   |     |     |     |
+| Binary                            |     |     |     |
+| Season                            |     |     |     |
+| Cardinal Direction                |     |     |     |
+| Signs                             |     |     |     |
+| Houses                            |     |     |     |
+| Gemstones                         |     |     |     |
+|                                   |     |     |     |
+| Herbs/Essences                    |     |     |     |
+|                                   |     |     |     |
+| Animal Totems                     |     |     |     |
+|                                   |     |     |     |
+| Colors                            |     |     |     |
+| Archangel (Western)               |     |     |     |
+| Directional Guardian (Eastern)    |     |     |     |
+
 
 ### Air
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 26%" />
-<col style="width: 24%" />
-<col style="width: 24%" />
-<col style="width: 24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th rowspan="5">Keywords</th>
-<th colspan="3"></th>
-</tr>
-<tr class="odd">
-<th colspan="3"></th>
-</tr>
-<tr class="header">
-<th colspan="3"></th>
-</tr>
-<tr class="odd">
-<th colspan="3"></th>
-</tr>
-<tr class="header">
-<th colspan="3"></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Binary</td>
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td>Season</td>
-<td colspan="3"></td>
-</tr>
-<tr class="odd">
-<td>Cardinal Direction</td>
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td>Signs</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Houses</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td rowspan="2">Gemstones</td>
-<td colspan="3"></td>
-</tr>
-<tr class="odd">
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td rowspan="2">Herbs/Essences</td>
-<td colspan="3"></td>
-</tr>
-<tr class="odd">
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td rowspan="2">Animal Totems</td>
-<td colspan="3"></td>
-</tr>
-<tr class="odd">
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td>Colors</td>
-<td colspan="3"></td>
-</tr>
-<tr class="odd">
-<td><p>Archangel</p>
-<p>(Western)</p></td>
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td>Directional Guardian (Eastern)</td>
-<td colspan="3"></td>
-</tr>
-</tbody>
-</table>
+| Keywords                          |     |     |     |
+|-----------------------------------|-----|-----|-----|
+|                                   |     |     |     |
+|                                   |     |     |     |
+|                                   |     |     |     |
+|                                   |     |     |     |
+| Binary                            |     |     |     |
+| Season                            |     |     |     |
+| Cardinal Direction                |     |     |     |
+| Signs                             |     |     |     |
+| Houses                            |     |     |     |
+| Gemstones                         |     |     |     |
+|                                   |     |     |     |
+| Herbs/Essences                    |     |     |     |
+|                                   |     |     |     |
+| Animal Totems                     |     |     |     |
+|                                   |     |     |     |
+| Colors                            |     |     |     |
+| Archangel (Western)               |     |     |     |
+| Directional Guardian (Eastern)    |     |     |     |
+
 
 ### Water
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 26%" />
-<col style="width: 24%" />
-<col style="width: 24%" />
-<col style="width: 24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th rowspan="5">Keywords</th>
-<th colspan="3"></th>
-</tr>
-<tr class="odd">
-<th colspan="3"></th>
-</tr>
-<tr class="header">
-<th colspan="3"></th>
-</tr>
-<tr class="odd">
-<th colspan="3"></th>
-</tr>
-<tr class="header">
-<th colspan="3"></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Binary</td>
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td>Season</td>
-<td colspan="3"></td>
-</tr>
-<tr class="odd">
-<td>Cardinal Direction</td>
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td>Signs</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Houses</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td rowspan="2">Gemstones</td>
-<td colspan="3"></td>
-</tr>
-<tr class="odd">
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td rowspan="2">Herbs/Essences</td>
-<td colspan="3"></td>
-</tr>
-<tr class="odd">
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td rowspan="2">Animal Totems</td>
-<td colspan="3"></td>
-</tr>
-<tr class="odd">
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td>Colors</td>
-<td colspan="3"></td>
-</tr>
-<tr class="odd">
-<td><p>Archangel</p>
-<p>(Western)</p></td>
-<td colspan="3"></td>
-</tr>
-<tr class="even">
-<td>Directional Guardian (Eastern)</td>
-<td colspan="3"></td>
-</tr>
-</tbody>
-</table>
+| Keywords                          |     |     |     |
+|-----------------------------------|-----|-----|-----|
+|                                   |     |     |     |
+|                                   |     |     |     |
+|                                   |     |     |     |
+|                                   |     |     |     |
+| Binary                            |     |     |     |
+| Season                            |     |     |     |
+| Cardinal Direction                |     |     |     |
+| Signs                             |     |     |     |
+| Houses                            |     |     |     |
+| Gemstones                         |     |     |     |
+|                                   |     |     |     |
+| Herbs/Essences                    |     |     |     |
+|                                   |     |     |     |
+| Animal Totems                     |     |     |     |
+|                                   |     |     |     |
+| Colors                            |     |     |     |
+| Archangel (Western)               |     |     |     |
+| Directional Guardian (Eastern)    |     |     |     |
+
 
 ## Three Modalities
 
@@ -5827,7 +5605,7 @@ style="width:5.88105in;height:8.91781in" />
 | Chiron in House 5 | Chiron in House 11 |
 | Chiron in House 6 | Chiron in House 12 |
 
-# Sensitive Pts.
+# Sensitive-Pts.
 
 <img src="F:\Obsidian Vaults\Grimoire Vault\Grimoire\media\image78.jpg"
 style="width:5.81328in;height:8.81505in" />
