@@ -4344,7 +4344,7 @@ aware of, but intuitively you know you possess.</p></th>
 | Mars in House 12    | Chiron in House 12     |
 | Jupiter in House 12 | North Node in House 12 |
 
-# The Trinity
+# The-Trinity 
 
 <img src="F:\Obsidian Vaults\Grimoire Vault\Grimoire\media\image76.jpg"
 style="width:5.84491in;height:8.86301in" />
